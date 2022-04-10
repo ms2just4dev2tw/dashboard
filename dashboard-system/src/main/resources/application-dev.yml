@@ -1,0 +1,12 @@
+
+
+
+spring:
+  banner:
+    image:
+      # ASCII 艺术 gif
+      location: classpath:./banner/project-dev.gif
+    # ASCII 艺术字 https://www.bootschool.net/ascii-art
+    location: classpath:./banner/project-dev.txt
+
+

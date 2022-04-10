@@ -1,0 +1,10 @@
+
+
+
+spring:
+  banner:
+    image:
+      location: classpath:./banner/duck.gif
+    location: classpath:./banner/project-prod.txt
+
+

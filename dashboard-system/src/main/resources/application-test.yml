@@ -1,0 +1,11 @@
+
+
+
+
+spring:
+  banner:
+    image:
+      location: classpath:./banner/project-test.gif
+    location: classpath:./banner/project-test.txt
+
+
