@@ -77,7 +77,7 @@ public class BenchmarkData {
     private double arknojitRuntime;
 
     /**
-     * 测试项目 arknojit 上需要的内存
+     * 测试项目在 arknojit 上需要的内存
      */
     @Column(name = "arknojit_rss")
     //
